@@ -17,14 +17,17 @@ datetime
 The datetime module simplifies access to attributes associated with dates, times, and time zones. It is used to handle and parse time-related information in this alarm clock project.
 
 Usage
-Run the program by executing the Python script (e.g., python alarm_clock.py).
-A dialog box will appear, presenting a user interface to set the alarm time.
-Enter the desired hour, minutes, and seconds for the alarm.
-Wait for the specified time, and the alarm will ring, notifying you.
+1.Run the program by executing the Python script (e.g., python alarm_clock.py).
+2.A dialog box will appear, presenting a user interface to set the alarm time.
+3.Enter the desired hour, minutes, and seconds for the alarm.
+4.Wait for the specified time, and the alarm will ring, notifying you.
+
 How to Set the Alarm
-Launch the program.
-Enter the desired hour, minutes, and seconds using the provided input fields.
-Click the "Set Alarm" button.
-The program will display a message confirming that the alarm has been set.
-Wait for the specified time, and the alarm will be triggered.
+1.Launch the program.
+2.Enter the desired hour, minutes, and seconds using the provided input fields.
+3.Click the "Set Alarm" button.
+4.The program will display a message confirming that the alarm has been set.
+5.Wait for the specified time, and the alarm will be triggered.
+
+
 Feel free to customize and enhance the project based on your preferences or specific requirements. If you encounter any issues or have questions, refer to the provided information or seek further assistance.
